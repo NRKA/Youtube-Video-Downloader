@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader
-YouTubeDownloader is a Python project for downloading video from YouTube.
+YouTube-Video-Downloader is a Python project for downloading video from YouTube.
 
 # Installation
 Use [git](https://github.com/NRKA/Youtube-Video-Downloader) to clone this repository.
