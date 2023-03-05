@@ -1,4 +1,4 @@
-# YouTubeDownloader
+# YouTube-Video-Downloader
 YouTubeDownloader is a Python project for downloading video from YouTube.
 
 # Installation
